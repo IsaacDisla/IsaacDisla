@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/C6tR8Xm1fAAAAAAC/monkey-thinking.gif" width="200"/>
+<img src="monkey.gif" width="200"/>
 </p>
 
 # 👋 Hola, soy Isaac Reynold Disla Santana  
