@@ -3,8 +3,9 @@
 </p>
 
 # 👋 Hola, soy Isaac Reynold Disla Santana  
-💻 Estudiante de programación | 16 años | #8 en mi lista  
+💻 Estudiante de programación | 16 años | Numero de orden #8
 🌎 From Dominican Republic  
+🏫 5to D1
 
 ---
 
