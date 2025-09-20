@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+<div class="tenor-gif-embed" data-postid="7186647204234384971" data-share-method="host" data-aspect-ratio="1.0081" data-width="100%"><a href="https://tenor.com/view/monkey-thinking-meme-monkey-thinking-sticker-gif-7186647204234384971">Monkey Thinking Meme Monkey Thinking Sticker Sticker</a>from <a href="https://tenor.com/search/monkey+thinking+meme-stickers">Monkey Thinking Meme Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 # 👋 Hola, soy Isaac Reynold Disla Santana  
