@@ -1,5 +1,5 @@
 <p align="center">
-<div class="tenor-gif-embed" data-postid="7186647204234384971" data-share-method="host" data-aspect-ratio="1.0081" data-width="100%"><a href="https://tenor.com/view/monkey-thinking-meme-monkey-thinking-sticker-gif-7186647204234384971">Monkey Thinking Meme Monkey Thinking Sticker Sticker</a>from <a href="https://tenor.com/search/monkey+thinking+meme-stickers">Monkey Thinking Meme Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/ghKX2Y-9jvYAAAAi/monkey-thinking.gif" width="200"/>
 </p>
 
 # 👋 Hola, soy Isaac Reynold Disla Santana  
@@ -18,19 +18,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-
-<!--
-**IsaacDisla/IsaacDisla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
