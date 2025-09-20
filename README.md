@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.tenor.com/ghKX2Y-9jvYAAAAi/monkey-thinking.gif" width="200"/>
+  <img src="https://media.tenor.com/C6tR8Xm1fAAAAAAC/monkey-thinking.gif" width="200"/>
 </p>
 
 # 👋 Hola, soy Isaac Reynold Disla Santana  
-💻 Estudiante de programación | 16 años | Numero de orden #8
+💻 Estudiante de programación | 16 años | #8 en mi lista  
 🌎 From Dominican Republic  
 
 ---
