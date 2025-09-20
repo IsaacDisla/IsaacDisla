@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="Monkey.gif" width="200"/>
+  <img src="https://i.redd.it/lea6e63uxdod1.gif" width="250"/>
 </p>
 
 # 👋 Hola, soy Isaac Reynold Disla Santana  
-💻 Estudiante de programación | 16 años | Numero de orden #8
-🌎 From Dominican Republic  
-🏫 5to D1
+💻 Estudiante de programación | 16 años  
+📌 Número de orden **#8**  
+🏫 5to D1  
+From Dominican Republic  
 
 ---
 
@@ -18,4 +19,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
