@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hola, soy Isaac Reynold Disla Santana  
-💻 Estudiante de programación | 16 años  
+💻 Estudiante de programación | 17 años  
 🏫 5to D1  
 From Dominican Republic  
 
